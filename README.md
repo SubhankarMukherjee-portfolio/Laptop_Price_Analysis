@@ -49,7 +49,7 @@ Python File =  "https://github.com/SubhankarMukherjee-portfolio/Laptop_Price_Ana
 PPT = "https://github.com/SubhankarMukherjee-portfolio/Laptop_Price_Analysis/blob/main/Laptop_Price_Analysis_Presentation.pptx"
 
 ## PDF File of PowerPoint presentation
-PDF file = ""
+PDF file = "https://github.com/SubhankarMukherjee-portfolio/Laptop_Price_Analysis/blob/main/Laptop_Price_Analysis_Presentation.pdf"
 
 ## Final Observations & Storyline
 1) Brand & Type Positioning:
