@@ -2,7 +2,7 @@
 This project explores a comprehensive dataset of laptops, analyzing their specifications, pricing, and features across multiple brands and models. The dataset includes key attributes such as brand, type, screen size, RAM, storage, CPU, GPU, operating system, display features, and price (in Euros). The data was cleaned, transformed, and analyzed using Python in a Jupyter Notebook environment. The goal of the analysis was to uncover pricing trends, performance-to-price relationships, and feature-based value metrics. Techniques like correlation analysis, statistical testing, and machine learning (Random Forest Regression & Classification) were used to predict laptop prices and identify the most influential features affecting cost.
 
 ## Dataset used
-Dataset = ""
+Dataset = "https://github.com/SubhankarMukherjee-portfolio/Laptop_Price_Analysis/blob/main/laptop_prices.csv"
 
 ## Objectives of the project
 1) Perform exploratory data analysis (EDA) on laptop specifications and pricing
@@ -42,12 +42,14 @@ The following Python libraries were used during the data cleaning, exploration, 
 5) Scikit-learn (sklearn) – for implementing machine learning models and evaluating their performance
 
 ## Python file (Jupyter Notebook)
-Python File =  ""
+Python File =  "https://github.com/SubhankarMukherjee-portfolio/Laptop_Price_Analysis/blob/main/Laptop%20Price%20Analysis%20_%20ML%20_%20FA%20_%20DA%20Project.ipynb"
 
 
 ## PowerPoint presentation
-PPT = ""
+PPT = "https://github.com/SubhankarMukherjee-portfolio/Laptop_Price_Analysis/blob/main/Laptop_Price_Analysis_Presentation.pptx"
 
+## PDF File of PowerPoint presentation
+PDF file = ""
 
 ## Final Observations & Storyline
 1) Brand & Type Positioning:
